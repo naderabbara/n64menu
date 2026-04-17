@@ -28,3 +28,7 @@ libdragon
 ## Editors
 .vscode
 
+## Assets
+filesystem/boxart
+filesystem/ui
+src/assets/boxart
